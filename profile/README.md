@@ -1,5 +1,5 @@
 # Project Athena
 
-> *"Persistence is very important. You should not give up unless you are forced to give up"*
+> *"Persistence is very important. You should not give up unless you are forced to give upn ~ Elon Musk"*
 
 ![futuristic theme](build.jpeg)
