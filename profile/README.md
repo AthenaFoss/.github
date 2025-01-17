@@ -1,5 +1,5 @@
 # Project Athena
 
-> *"Project Athena is an open-source elite developer community of builders - 93/300 members!"*
+> *"Persistence is very important. You should not give up unless you are forced to give up"*
 
 ![futuristic theme](build.jpeg)
