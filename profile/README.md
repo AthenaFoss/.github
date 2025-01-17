@@ -1,5 +1,5 @@
-# The Dark Matter
+# Project Athena
 
-> *"Dark matter is the ghost in the cosmic machine, a force we can't touch or see, yet it shapes galaxies and whispers the universe's secrets, just beyond our reach."*
+> *"Project Athena is an open-source elite developer community of builders!"*
 
 ![futuristic theme](build.jpeg)
